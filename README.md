@@ -11,7 +11,7 @@ Inclui algumas regras adicionais como, operações de depósito, saque e extrato
 - Criação de usuário
 - Criação de Conta
 - Listagem de Contas
-- Deposito
+- Depósito
 - Saque
 - Extrato
 - Limite de 3 saques diário.
